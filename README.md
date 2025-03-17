@@ -14,8 +14,7 @@ Machine Learning Model: Utilizes Random Forest Classifier to predict the winner
 
 Feature Importance Analysis: Identifies key factors influencing team success
 
-2025 Winner Prediction: Simulates and forecasts the 2025 EPL champion
-Dataset
+2025 Winner Prediction: Simulates and forecasts the 2025 EPL champion using Dataset
 
 The dataset (epl_extended_data.csv) includes:
 
