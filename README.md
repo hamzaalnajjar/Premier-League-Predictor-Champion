@@ -20,7 +20,7 @@ The dataset (epl_extended_data.csv) includes:
 
 Season (2010-2024)
 
-Team
+Teams: 
 
 Matches Played, Wins, Draws, Losses
 
