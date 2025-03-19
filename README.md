@@ -22,7 +22,7 @@ Season (2010-2024)
 
 Teams: 
 
-Matches Played, Wins, Draws, Losses
+# of Matches Played, Wins, Draws, Losses
 
 Goals For, Goals Against, Goal Difference
 
