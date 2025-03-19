@@ -18,7 +18,7 @@ Feature Importance Analysis: Identifies key factors influencing team success
 
 The dataset (epl_extended_data.csv) includes:
 
-Season (2010-2024)
+Season Data From 2010-2024:
 
 Teams: 
 
