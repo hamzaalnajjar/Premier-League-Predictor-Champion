@@ -2,7 +2,7 @@
 
 Premier League Champion Predictor
 
-Overview
+Overview of Project:
 
 This project predicts the English Premier League winner for the 2025 season based on data from 2010 to 2024. Using machine learning, it analyzes key team performance metrics such as win rate, goal efficiency, defensive rating, expected goals (xG), and possession to forecast the next champion.
 
